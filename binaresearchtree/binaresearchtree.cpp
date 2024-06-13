@@ -21,6 +21,7 @@ public:
 class BinaryTree
 {
 public:
+    node* ROOT;
 };
 
 int main()
