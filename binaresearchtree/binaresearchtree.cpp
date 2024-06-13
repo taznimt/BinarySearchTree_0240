@@ -7,7 +7,9 @@ class node
 {
 public:
     string info;
+    node* leftchild;
 };
+
 int main()
 {
     
