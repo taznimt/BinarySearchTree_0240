@@ -18,6 +18,10 @@ public:
         rightchild = r;
     }
 };
+class BinaryTree
+{
+
+};
 
 int main()
 {
