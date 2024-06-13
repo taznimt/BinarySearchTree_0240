@@ -22,6 +22,11 @@ class BinaryTree
 {
 public:
     node* ROOT;
+
+    BinaryTree()
+    {
+        ROOT = nullptr;
+    }
 };
 
 int main()
